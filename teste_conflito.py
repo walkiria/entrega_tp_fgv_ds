@@ -14,12 +14,12 @@ print("hello world")
 
 for i in range(0, 50):
     if i < 30:
-        print(i*1000)
+        print(i*100)
     else:
-        print(i*5)
+        print(i*3782)
 
 
-frutas = ["banana", "ameixa"]
+frutas = ["banana", "ameixa", "goiaba", "vermelho"]
 
 dic = {}
 
