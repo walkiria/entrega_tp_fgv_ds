@@ -19,7 +19,7 @@ for i in range(0, 50):
         print(i*5)
 
 
-pessoas = ["Walkiria", "Igor", "Baronão"]
+pessoas = ["Walkiria", "Igor", "Baronão", "Isabella"]
 frutas = ["banana", "maça", "ameixa"]
 
 dic = {}
