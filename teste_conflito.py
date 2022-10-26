@@ -19,14 +19,13 @@ for i in range(0, 50):
         print(i*5)
 
 
-pessoas = ["Walkiria", "Igor", "Baronão", "Isabella"]
-frutas = ["banana", "maça", "ameixa"]
+frutas = ["banana", "ameixa"]
 
 dic = {}
 
 print(dic)
 
-print("meu nome não é Igor")
+print("meu nome é Igor")
 
     
 
