@@ -14,7 +14,7 @@ print("hello world")
 
 for i in range(0, 50):
     if i < 30:
-        print(i+10)
+        print(i*1000)
     else:
         print(i*5)
 
