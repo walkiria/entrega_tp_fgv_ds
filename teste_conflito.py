@@ -37,5 +37,7 @@ for i in range(0,10):
 dicionario = {}
 dicionario['chave'] = ['valor', 'valor1']
 
-dicionario={}
-dicionario['chave'] = ['valor', 'valor1']
+dicionario2={}
+dicionario2['chave'] = ['valor', 'valor1']
+
+
