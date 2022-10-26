@@ -29,3 +29,14 @@ print("meu nome é Igor")
 
     
 
+
+
+
+for i in range(0,10):
+    print(i)
+
+dicionario = {}
+dicionario['chave'] = ['valor', 'valor1']
+
+dicionario={}
+dicionario['chave'] = ['valor', 'valor1']
