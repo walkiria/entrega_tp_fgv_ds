@@ -14,13 +14,13 @@ print("hello world")
 
 for i in range(0, 50):
     if i < 30:
-        print(i*10)
+        print(i+10)
     else:
         print(i*5)
 
 
-frutas = ["banana", "maça", "ameixa"]
 pessoas = ["Walkiria", "Igor", "Baronão"]
+frutas = ["banana", "maça", "ameixa"]
 
 dic = {}
 
