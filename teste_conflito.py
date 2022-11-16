@@ -43,3 +43,5 @@ dicionario['chave'] = ['valor', 'valor1']
 
 
 ## Mais uma alteracao 
+
+# testando o pull no vscode
