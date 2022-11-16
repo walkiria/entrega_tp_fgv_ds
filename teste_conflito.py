@@ -40,3 +40,6 @@ dicionario['chave'] = ['valor', 'valor1']
 
 dicionario={}
 dicionario['chave'] = ['valor', 'valor1']
+
+
+## Mais uma alteracao 
