@@ -47,4 +47,4 @@ dicionario['chave'] = ['valor', 'valor1']
 
 # testando o pull no vscode
 
-# teste 2 walkiria
+# teste walkiria  a a a a ...
