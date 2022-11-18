@@ -41,7 +41,10 @@ dicionario['chave'] = ['valor', 'valor1']
 dicionario={}
 dicionario['chave'] = ['valor', 'valor1']
 
+#editando arquivo às 19h15
 
 ## Mais uma alteracao 
 
 # testando o pull no vscode
+
+# teste walkiria  a a a a ...
